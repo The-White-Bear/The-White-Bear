@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @The-White-Bear
+- 👀 I’m interested in data data📅, statistics 📉,coding and playing chess ♟️.
+- 🏫 I am currently a student at the Posts and Telecommunications Institute of Technology (PTIT) and am self-studying data analysis through online platforms.
+- 👨‍💻 I'm getting my certificate in Data Analyst , Python for automation and Web Development.
+- 💞️ 860 TOEIC Certificate
+- 📫 My contact : duythong.ptit@gmail.com 
