@@ -3,7 +3,7 @@
 
 - 🔭🏫 I am currently **a student at the Posts and Telecommunications Institute of Technology (PTIT) and am self-studying data analysis through online platforms.**
 
-- 🌱 I’m currently learning **Data Analystic and Front-end development.**
+- 🌱 I’m currently learning **Data Analystic and Backend-Dev**
 
 - 🤝 I’m looking for help with **my programing skills <3.**
 
